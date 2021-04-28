@@ -68,7 +68,8 @@ namespace ProjectNameConsoleApp1 {
 
             volvo.getValues();
 
-            Console.ReadKey();
+            //Console.ReadKey();
+            Console.WriteLine();
         } 
     }
 }
